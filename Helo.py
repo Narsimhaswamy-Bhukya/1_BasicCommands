@@ -1,0 +1,1 @@
+print("helo world my dear frieds i want to prepare fot he upsc cse 2026")
